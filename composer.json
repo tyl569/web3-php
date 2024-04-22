@@ -1,11 +1,11 @@
 {
-    "name": "feilong/web3-php",
+    "name": "tyl569/web3-php",
     "description": "Ethereum web3 interface.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "feilong",
+            "name": "tyl569",
             "email": "569914877@qq.com"
         }
     ],
